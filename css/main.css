@@ -25,7 +25,7 @@ body {
 
 /***** HEADER *****/
 header {
-    height: 900px;
+    height: 950px;
     background: url("../img/dayton-skyline.jpg");
     background-size: cover;
     background-position: center;
@@ -45,7 +45,7 @@ header h2 {
     font-family: 'Lora';
     font-size: 70px;
     line-height: 80px;
-    color: #849c78;
+    color: #9e7e16;
     padding: 20px 0 20px 25px;
 }
 header h2 span {
@@ -64,7 +64,7 @@ nav ul li a {
     text-decoration: none;
     font-size: 18px;
     font-weight: 900;
-    color: #949494;
+    color: #252525;
     padding-left: 80px; 
 }
 
@@ -90,7 +90,7 @@ nav ul li a {
 
 /***** WORK *****/
 #work {
-    background-color: #95af90;
+    background-color: #eeefd2;
     text-align: center;
 }
 
@@ -118,7 +118,7 @@ nav ul li a {
 
 /***** Contact *****/
 #contact {
-    background-color: #ebe3cdc9;
+    background-color: #fff4e5;
 }
 
 #contact .full-width {
@@ -127,7 +127,7 @@ nav ul li a {
 
 #contact img#contact-img {
     margin-left: 25px;
-    border: 12px solid #ffffff;
+    border: 8px solid #104827;
 }
 
 #contact h2, #contact #email-header, #contact #socialmedia-header, #contact ul {
